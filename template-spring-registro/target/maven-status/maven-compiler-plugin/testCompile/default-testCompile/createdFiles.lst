@@ -1,0 +1,17 @@
+lat\hackademy\micro\swagger\SpringDocsIntegrationTest$SpringDocTestApp.class
+lat\hackademy\micro\controllers\SmokeTest.class
+lat\hackademy\micro\swagger\SpringDocsIntegrationActuatorTest$SpringDocTestApp.class
+lat\hackademy\micro\utils\Utils.class
+lat\hackademy\micro\repositories\ExampleRepositoryTest.class
+lat\hackademy\micro\actuator\ActuactorTest$SpringActuactorTestApp.class
+lat\hackademy\micro\dto\ExampleModelDTOTest.class
+lat\hackademy\micro\ApplicationTest.class
+lat\hackademy\micro\swagger\SpringDocsIntegrationTest.class
+lat\hackademy\micro\controllers\HttpRequestTest.class
+lat\hackademy\micro\controllers\HomeControllerTest.class
+lat\hackademy\micro\controllers\TestingWebApplicationTest.class
+lat\hackademy\micro\models\ExampleModelTest.class
+lat\hackademy\micro\utils\TestMapper.class
+lat\hackademy\micro\actuator\ActuactorTest.class
+lat\hackademy\micro\swagger\SpringDocsIntegrationActuatorTest.class
+lat\hackademy\micro\services\ExampleServiceImplTest.class
